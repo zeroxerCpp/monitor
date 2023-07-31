@@ -19,12 +19,3 @@ Token:USDC  balance:1.091901  T:31 15:41:5
 Token:USDC  balance:0.091901  T:31 15:41:20
 Token:USDC  balance:35.607012  T:31 15:45:31
 Token:USDC  balance:1.502793  T:31 15:45:34
-Token:USDC  balance:0.002793  T:31 15:49:21
-Token:USDC  balance:1.502793  T:31 15:49:49
-Token:USDC  balance:0.002793  T:31 15:50:3
-Token:USDC  balance:1.502793  T:31 15:50:20
-Token:USDC  balance:6.5027930000000005  T:31 15:50:26
-Token:USDC  balance:7  T:31 15:50:53
-Token:USDC  balance:31.837590000000002  T:31 15:51:41
-Token:USDC  balance:42.265159  T:31 15:52:29
-Token:USDC  balance:40.544702  T:31 15:52:45
